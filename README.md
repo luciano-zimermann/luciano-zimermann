@@ -1,4 +1,4 @@
-### Be very welcome to my GitHub. I am Luciano Zimermann!
+### Welcome to my GitHub. I am Luciano Zimermann!
 
 - 🔭 I’m currently working on Java Software Development
 - 🌱 I’m currently learning Web Development and Flutter
